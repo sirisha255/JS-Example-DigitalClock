@@ -1,0 +1,25 @@
+body{
+    background:black;
+
+}
+.time{
+    margin:100px auto;
+    background:rgb(222, 202, 202);
+    color:rgb(215, 17, 17);
+    border:blue;
+       padding:8px;
+       text-align:center;
+       width :500px;
+}
+.hms{
+    font-size :68pt;
+    font-weight:200;
+
+}
+.ampm{
+    font-size :2pt;
+
+}
+date{
+    font-size : 15pt;
+}
